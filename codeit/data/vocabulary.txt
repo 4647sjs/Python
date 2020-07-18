@@ -1,0 +1,8 @@
+cat: 고양이
+dog: 개
+sheep: 양
+tiger: 호랑이
+lion: 사자
+elephant: 코끼리
+apple: 사과
+grape: 포도
